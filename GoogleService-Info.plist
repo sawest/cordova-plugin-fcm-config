@@ -1,1 +1,40 @@
-<!-- Dummy GoogleService-Info file !! replace with your configuration -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1022420912887-5ufkafv7uqhotfin5t7dsu2j3b7vtrq7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1022420912887-5ufkafv7uqhotfin5t7dsu2j3b7vtrq7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOE98nCsfmWNJTpR3AUmUgBXigVMvXEkc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1022420912887</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.iccms.iccmobilev2</string>
+	<key>PROJECT_ID</key>
+	<string>icc-mobile-2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>icc-mobile-2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1022420912887:ios:841d188dc5d7a977</string>
+	<key>DATABASE_URL</key>
+	<string>https://icc-mobile-2.firebaseio.com</string>
+</dict>
+</plist>

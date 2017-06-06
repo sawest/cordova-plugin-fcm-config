@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "1022420912887",
+    "firebase_url": "https://icc-mobile-2.firebaseio.com",
+    "project_id": "icc-mobile-2",
+    "storage_bucket": "icc-mobile-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022420912887:android:d807e6e5fa660570",
+        "android_client_info": {
+          "package_name": "edu.iccms.icc_mobilev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022420912887-h7fkr76nc4unao75qsbphsl58ib35md2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCouJZSRIGy4TlzD667QSFjGxF8RCVIF9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
